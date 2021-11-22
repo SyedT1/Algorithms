@@ -79,7 +79,7 @@ void insert_key(vector<ll> &v, ll &n, ll key)
         i = i / 2;
     }
 }
-ll get_mx(ll arr[])
+ll get_mx(vector<ll>arr)
 {
     return arr[0];
 }
