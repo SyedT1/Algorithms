@@ -61,7 +61,7 @@ bool chkWin(vector<vector<bool>> t, ofstream &FOUT)
             ll k = 0;
             for (ll j = 0; j < 5; j++)
             {
-                if (t[!z ? i : j][z ? j : i])
+                if (t[!z ? i : j][!z ? j : i])
                 {
                     k++;
                 }
