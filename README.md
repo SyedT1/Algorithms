@@ -17,5 +17,5 @@
   ### [**Microcorruption**](https://microcorruption.com/login)
   ### [**Daily Programmer**](https://www.reddit.com/r/dailyprogrammer/)
   ### [**Project Euler**](https://projecteuler.net/)
-  ### [**A&DS Course - Pavel Marvin(2 Per Week)**]
+  ### [**A&DS Course - Pavel Marvin(2 Per Week)**](https://www.youtube.com/watch?v=oWgLjhM-6XE&list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4&index=1)
   + **March 6,22' to March 12,22'**
