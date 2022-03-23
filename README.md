@@ -7,6 +7,12 @@
 + **[Senior Algorithms](https://opendsa.cs.vt.edu/ODSA/Books/CS4104/html/index.html)**
 + **[Brilliant Algorithms Community Wiki](https://brilliant.org/computer-science/?subtopic=algorithms&chapter=sorts)**
 
+# Video Lectures
++ **MIT OCW**
+   + **[Introduction to Algorithms - Spring 2020](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/lecture-videos/)**
++ **Harvard**
+   + **[Advanced Algorithms(CS 224)- Professor Jelani Nelson](http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html)**
+
 ## Interesting places to solve algorithmic puzzles/problems:
   ### [**AdventofCode**](https://adventofcode.com/)
    + [**2021**](https://adventofcode.com/2021)
