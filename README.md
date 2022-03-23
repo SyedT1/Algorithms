@@ -1,4 +1,11 @@
 # Algorithms
+# Resources
++ [**Mr.Pashka**](https://www.youtube.com/watch?v=oWgLjhM-6XE&list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4&ab_channel=PavelMavrinPavelMavrin)
++ [**Mr.Abdul Bari**](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&ab_channel=AbdulBariAbdulBari)
++ [**MIT OCW**](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-1-algorithmic-thinking-peak-finding/)
++ **[Introduction to Algorithms - CLRS](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)**
++ **[Senior Algorithms](https://opendsa.cs.vt.edu/ODSA/Books/CS4104/html/index.html)**
++ **[Brilliant Algorithms Community Wiki](https://brilliant.org/computer-science/?subtopic=algorithms&chapter=sorts)**
 
 ## Interesting places to solve algorithmic puzzles/problems:
   ### [**AdventofCode**](https://adventofcode.com/)
