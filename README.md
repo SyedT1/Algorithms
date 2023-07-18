@@ -14,7 +14,7 @@
    + **[Advanced Algorithms(CS 224)- Professor Jelani Nelson](http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html)**
 
 ## Interesting places to solve algorithmic puzzles/problems:
-  ### [**AdventofCode**](https://adventofcode.com/)
+  ### [**AdventofCode**]([https://adventofcode.com/](https://adventofcode.com/2022/events)
    + [**2021**](https://adventofcode.com/2021)
      + [Day 1 - Link](https://adventofcode.com/2021/day/1)
        + [my solution to Part 1](https://github.com/SyedT1/Algorithms/blob/main/AdventOfCode/2021/1.cpp)
